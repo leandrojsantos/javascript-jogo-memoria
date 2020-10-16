@@ -1,6 +1,6 @@
 
 <h1 align="center">
-     <a href="#" alt="site do ecoleta">Jogo Memória</a>
+     <a href="#" alt="">Jogo Memória</a>
 </h1>
 
 <h4 align="center">
