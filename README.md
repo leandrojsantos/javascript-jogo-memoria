@@ -72,7 +72,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:leandrojsantos/javascript-jogo-memoria.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd javascript/js-jogo-memoria/demo-game
+$ cd js-jogo-memoria/demo-game/
 
 # dentro da pasta demo-game que e a raiz do projeto, é abrir o arquivo `index.html` que ele irá iniciar no seu navegador
 
