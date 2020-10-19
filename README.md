@@ -38,7 +38,7 @@ Foco no Básico de Javascript como:
 - [x] Manipulação de listas,
 - [x] Dominar funções assíncronas
 
-  Em cada pasta do projeto foi separado, em capítulos onde existe também explicações/comentários no meio do código
+  O projeto foi separado em pastas para fica mais organizado cada pasta funciona de forma independentemente, onde existe também explicações/comentários no meio do código
 
 ---
 
